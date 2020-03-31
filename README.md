@@ -1,4 +1,4 @@
-# Card against jinrui
+# Docker PHP development boilerplate
 
 
 ## Run development
